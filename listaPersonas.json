@@ -1,0 +1,229 @@
+{
+    "lista": [
+      {
+        "apellido": "Gomez",
+        "nombre": "Juan",
+        "rol": "Programador",
+        "incompatibilidad": "Alvarez",
+        "calificacion": 3
+      },
+      {
+        "apellido": "Fernandez",
+        "nombre": "Maria",
+        "rol": "Arquitecto",
+        "incompatibilidad": "Gomez",
+        "calificacion": 4
+      },
+      {
+        "apellido": "Lopez",
+        "nombre": "Pedro",
+        "rol": "Tester",
+        "incompatibilidad": "Fernandez",
+        "calificacion": 2
+      },
+      {
+        "apellido": "Rodriguez",
+        "nombre": "Ana",
+        "rol": "Lider del Proyecto",
+        "incompatibilidad": "Lopez",
+        "calificacion": 5
+      },
+      {
+        "apellido": "Martinez",
+        "nombre": "Carlos",
+        "rol": "Programador",
+        "incompatibilidad": "Rodriguez",
+        "calificacion": 1
+      },
+      {
+        "apellido": "Gonzalez",
+        "nombre": "Laura",
+        "rol": "Arquitecto",
+        "incompatibilidad": "Martinez",
+        "calificacion": 4
+      },
+      {
+        "apellido": "Perez",
+        "nombre": "Jose",
+        "rol": "Tester",
+        "incompatibilidad": "Gonzalez",
+        "calificacion": 3
+      },
+      {
+        "apellido": "Sanchez",
+        "nombre": "Sofia",
+        "rol": "Lider del Proyecto",
+        "incompatibilidad": "Perez",
+        "calificacion": 2
+      },
+      {
+        "apellido": "Romero",
+        "nombre": "Luis",
+        "rol": "Programador",
+        "incompatibilidad": "Sanchez",
+        "calificacion": 5
+      },
+      {
+        "apellido": "Torres",
+        "nombre": "Elena",
+        "rol": "Arquitecto",
+        "incompatibilidad": "Romero",
+        "calificacion": 3
+      },
+      {
+        "apellido": "Flores",
+        "nombre": "Javier",
+        "rol": "Tester",
+        "incompatibilidad": "Torres",
+        "calificacion": 4
+      },
+      {
+        "apellido": "Rivera",
+        "nombre": "Mariana",
+        "rol": "Lider del Proyecto",
+        "incompatibilidad": "Flores",
+        "calificacion": 1
+      },
+      {
+        "apellido": "Acosta",
+        "nombre": "Andrea",
+        "rol": "Programador",
+        "incompatibilidad": "Rivera",
+        "calificacion": 2
+      },
+      {
+        "apellido": "Benitez",
+        "nombre": "Ricardo",
+        "rol": "Arquitecto",
+        "incompatibilidad": "Acosta",
+        "calificacion": 4
+      },
+      {
+        "apellido": "Silva",
+        "nombre": "Carolina",
+        "rol": "Tester",
+        "incompatibilidad": "Benitez",
+        "calificacion": 3
+      },
+      {
+        "apellido": "Moreno",
+        "nombre": "David",
+        "rol": "Lider del Proyecto",
+        "incompatibilidad": "Silva",
+        "calificacion": 5
+      },
+      {
+        "apellido": "Hernandez",
+        "nombre": "Isabella",
+        "rol": "Programador",
+        "incompatibilidad": "Moreno",
+        "calificacion": 1
+      },
+      {
+        "apellido": "Vargas",
+        "nombre": "Manuel",
+        "rol": "Arquitecto",
+        "incompatibilidad": "Hernandez",
+        "calificacion": 2
+      },
+      {
+        "apellido": "Reyes",
+        "nombre": "Gabriela",
+        "rol": "Tester",
+        "incompatibilidad": "Vargas",
+        "calificacion": 3
+      },
+      {
+        "apellido": "Jimenez",
+        "nombre": "Daniel",
+        "rol": "Lider del Proyecto",
+        "incompatibilidad": "Reyes",
+        "calificacion": 4
+      },
+      {
+        "apellido": "Cruz",
+        "nombre": "Valeria",
+        "rol": "Programador",
+        "incompatibilidad": "Jimenez",
+        "calificacion": 5
+      },
+      {
+        "apellido": "Ortega",
+        "nombre": "Fernanda",
+        "rol": "Arquitecto",
+        "incompatibilidad": "Cruz",
+        "calificacion": 2
+      },
+      {
+        "apellido": "Morales",
+        "nombre": "Raul",
+        "rol": "Tester",
+        "incompatibilidad": "Ortega",
+        "calificacion": 3
+      },
+      {
+        "apellido": "Navarro",
+        "nombre": "Camila",
+        "rol": "Lider del Proyecto",
+        "incompatibilidad": "Morales",
+        "calificacion": 4
+      },
+      {
+        "apellido": "Guerrero",
+        "nombre": "Diego",
+        "rol": "Programador",
+        "incompatibilidad": "Navarro",
+        "calificacion": 5
+      },
+      {
+        "apellido": "Mendoza",
+        "nombre": "Valentina",
+        "rol": "Arquitecto",
+        "incompatibilidad": "Guerrero",
+        "calificacion": 1
+      },
+      {
+        "apellido": "Soto",
+        "nombre": "Alejandro",
+        "rol": "Tester",
+        "incompatibilidad": "Mendoza",
+        "calificacion": 3
+      },
+      {
+        "apellido": "Ramos",
+        "nombre": "Juliana",
+        "rol": "Lider del Proyecto",
+        "incompatibilidad": "Soto",
+        "calificacion": 2
+      },
+      {
+        "apellido": "Valencia",
+        "nombre": "Maximiliano",
+        "rol": "Programador",
+        "incompatibilidad": "Ramos",
+        "calificacion": 4
+      },
+      {
+        "apellido": "Vega",
+        "nombre": "Melanie",
+        "rol": "Arquitecto",
+        "incompatibilidad": "Valencia",
+        "calificacion": 5
+      },
+      {
+        "apellido": "Luna",
+        "nombre": "Rocio",
+        "rol": "Tester",
+        "incompatibilidad": "Vega",
+        "calificacion": 3
+      },
+      {
+        "apellido": "Espinoza",
+        "nombre": "Gustavo",
+        "rol": "Lider del Proyecto",
+        "incompatibilidad": "Luna",
+        "calificacion": 4
+      }
+    ]
+}
+  
